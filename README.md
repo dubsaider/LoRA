@@ -13,6 +13,7 @@ cd diffusers
 pip install .
 cd examples/text_to_image
 pip install -r requirements_sdxl.txt
+pip install datasets peft wandb huggingface_hub
 ```
 
 # Use
