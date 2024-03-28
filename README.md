@@ -44,32 +44,23 @@ accelerate launch train_text_to_image_lora_sdxl.py \
 
 # Examples
 
-## Woman in the simpsons style
+## Woman cartoon
 
 ### Base SDXL
 
-![00070-1578129095](https://github.com/dubsaider/LoRA/assets/44964427/88f859e4-bc03-406d-b173-af3dd3609a42)
+![image (10)](https://github.com/dubsaider/LoRA/assets/44964427/627e1546-2e90-49c4-9b3d-33208dac81a3)
 
 ### SDXL LoRA
 
-![00075-3407042086](https://github.com/dubsaider/LoRA/assets/44964427/0ced90e0-a7c6-4551-bb72-d4258382c546)
+![image (11)](https://github.com/dubsaider/LoRA/assets/44964427/2bf44d26-ad3e-4181-9f7f-bfe4dfaa8c83)
 
-## Simpsons characters
+## Cat cartoon
 
 ### Base SDXL
 
-![00055-2428787481](https://github.com/dubsaider/LoRA/assets/44964427/9bb41e91-fe39-4c57-bb02-a7bf489f0619)
+![image (13)](https://github.com/dubsaider/LoRA/assets/44964427/af0cbf18-9540-4c43-9d9e-7c61b869fcce)
 
 ### SDXL LoRA
 
-![00065-3135564397](https://github.com/dubsaider/LoRA/assets/44964427/1c6034cc-bfef-471c-bdb2-fedb2de3fe4c)
+![image (12)](https://github.com/dubsaider/LoRA/assets/44964427/9940416c-6702-47ff-a22f-020a07be0c6f)
 
-## Shouth park character
-
-### Base SDXL
-
-![00030-163842441](https://github.com/dubsaider/LoRA/assets/44964427/68d34be4-e253-46ff-af1d-ffefaa057ef4)
-
-### SDXL LoRA
-
-![00035-3447649985](https://github.com/dubsaider/LoRA/assets/44964427/8c552e66-29c4-49cc-8948-74bf7f8324c4)
